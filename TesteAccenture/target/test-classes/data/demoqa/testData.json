@@ -1,0 +1,16 @@
+{
+  "books": {
+    "gitPocketGuide": {
+      "isbn": "9781449325862"
+    },
+    "learningJavaScript": {
+      "isbn": "9781449337711"
+    },
+    "designingEvolvableWebAPIs": {
+      "isbn": "9781449337711"
+    },
+    "speakingJavaScript": {
+      "isbn": "9781449365035"
+    }
+  }
+}

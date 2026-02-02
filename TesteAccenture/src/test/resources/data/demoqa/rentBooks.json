@@ -1,0 +1,8 @@
+{
+  "userId": "{{userId}}",
+  "collectionOfIsbns": [
+    {
+      "isbn": "{{isbn}}"
+    }
+  ]
+}
